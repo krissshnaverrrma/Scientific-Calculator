@@ -1,0 +1,14 @@
+*.class
+*.war
+*.ear
+calc_history.log
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+out/
+bin/
+.DS_Store
+Thumbs.db
